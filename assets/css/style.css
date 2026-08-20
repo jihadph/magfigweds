@@ -1,0 +1,64 @@
+/* Main */
+body {
+    background-color: rgb(254, 251, 246);
+    color: rgb(150, 146, 123);
+}
+.txt-core-color {
+    color: rgb(150, 146, 123);
+}
+.bg-core-color {
+    background-color: rgb(254, 251, 246);
+}
+.z-100 {
+    z-index: 100!important;
+}
+.header-offset-55 {
+    min-height: 55px!important;
+}
+.header-offset-110 {
+    min-height: 110px!important;
+}
+.header-scroll-padding-offset {
+    padding-top: 95px;
+}
+.faq-question {
+    font-weight: bold;
+}
+.faq-response {
+}
+
+
+/* Font Styles */
+.fnt-noto-serif-400 {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+}
+.fnt-noto-serif-ottoman-siyaq-regular {
+    font-family: "Noto Serif Ottoman Siyaq", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.fnt-alex-brush-regular {
+    font-family: "Alex Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.fnt-eb-garamond-400 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.txt-spacing-1 {
+    letter-spacing: 5px;
+}
+
+
+/* Font Sizes */
+.fnt-size-featured {
+    size: 3rem;
+}
