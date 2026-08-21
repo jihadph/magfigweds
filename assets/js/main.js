@@ -23,6 +23,10 @@ const guestList = [
     {
         id: 'M06',
         name: "Serad Magalin & Family",
+    },
+    {
+        id: 'M07',
+        name: "Oliling Magalin & Family",
     }
 ];
 // Get URL parameters
