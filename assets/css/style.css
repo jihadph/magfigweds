@@ -1,3 +1,16 @@
+.bismillah  {
+    max-width: 40vw;
+}
+@media (max-width: 767.98px) {
+    .bismillah {
+        max-width: 80vw!important;
+    }
+}
+.gcash {
+    border: 1px solid rgb(150, 146, 123);
+    max-width: 300px!important;
+}
+
 /* Main */
 body {
     background-color: rgb(254, 251, 246);
