@@ -2,7 +2,7 @@
 const guestList = [
     {
         id: 'M01',
-        name: "Prof. Daniel Mostrales"
+        name: "Prof. Daniel Mostrales & Family"
     },
     {
         id: 'M02',
