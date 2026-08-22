@@ -1,5 +1,6 @@
 // List of invited guests
 const guestList = [
+
     {
         id: 'M01',
         name: "Prof. Daniel Mostrales & Family"
@@ -16,6 +17,9 @@ const guestList = [
         id: 'M04',
         name: "John Rey & Jiza",
     },
+
+    /* MAGALIN FAMILY */
+
     {
         id: 'M05',
         name: "Johaira Guro & Family",
@@ -27,6 +31,49 @@ const guestList = [
     {
         id: 'M07',
         name: "Oliling Magalin & Family",
+    },
+    {
+        id: 'M08',
+        name: "Mangondaya Magalin & Family",
+    },
+
+    /* FIGUERAS FAMILY */
+
+    {
+        id: 'F01',
+        name: "Adriano & Rowena Figueras and Family",
+    },
+    {
+        id: 'F02',
+        name: "Romualdo Figueras and Family",
+    },
+    {
+        id: 'F03',
+        name: "Luis & Edith Figueras and Family",
+    },
+    {
+        id: 'F04',
+        name: "Santos & Concepcion Figueras and Family",
+    },
+    {
+        id: 'F05',
+        name: "Rodrigo & Nora Mondelo and Family",
+    },
+    {
+        id: 'F06',
+        name: "Mario & Nasaria Mondelo and Family",
+    },
+    {
+        id: 'F07',
+        name: "Ruby Timbal and Family",
+    },
+    {
+        id: 'F08',
+        name: "Hamman & Jinky Lariosa and Family",
+    },
+    {
+        id: 'F09',
+        name: "Ramon & Rowena Leotero and Family",
     }
 ];
 // Get URL parameters
