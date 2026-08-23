@@ -22,7 +22,7 @@ const guestList = [
 
     {
         id: 'M05',
-        name: "Johaira Guro & Family",
+        name: "H Johaira Guro & Family",
     },
     {
         id: 'M06',
@@ -34,7 +34,7 @@ const guestList = [
     },
     {
         id: 'M08',
-        name: "Mangondaya Magalin & Family",
+        name: "H Mangondaya Magalin & Family",
     },
 
     /* FIGUERAS FAMILY */
