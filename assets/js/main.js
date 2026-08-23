@@ -34,7 +34,11 @@ const guestList = [
     },
     {
         id: 'M08',
-        name: "H Mangondaya Magalin & Family",
+        name: "Mangondaya Magalin & Family",
+    },
+    {
+        id: 'M09',
+        name: "H Sahara Magalin & Family",
     },
 
     /* FIGUERAS FAMILY */
