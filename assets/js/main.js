@@ -69,47 +69,47 @@ const guestList = [
 
     {
         id: 'F01',
-        guest: '',
+        guest: 'adrianofigueras',
         name: "Adriano & Rowena Figueras and Family",
     },
     {
         id: 'F02',
-        guest: '',
+        guest: 'romualdofigueras',
         name: "Romualdo Figueras and Family",
     },
     {
         id: 'F03',
-        guest: '',
+        guest: 'luisfigueras',
         name: "Luis & Edith Figueras and Family",
     },
     {
         id: 'F04',
-        guest: '',
+        guest: 'santosfigueras',
         name: "Santos & Concepcion Figueras and Family",
     },
     {
         id: 'F05',
-        guest: '',
+        guest: 'rodrigofigueras',
         name: "Rodrigo & Nora Mondelo and Family",
     },
     {
         id: 'F06',
-        guest: '',
+        guest: 'mariomondelo',
         name: "Mario & Nasaria Mondelo and Family",
     },
     {
         id: 'F07',
-        guest: '',
+        guest: 'rubytimbal',
         name: "Ruby Timbal and Family",
     },
     {
         id: 'F08',
-        guest: '',
+        guest: 'hammanlariosa',
         name: "Hamman & Jinky Lariosa and Family",
     },
     {
         id: 'F09',
-        guest: '',
+        guest: 'ramonleotero',
         name: "Ramon & Rowena Leotero and Family",
     }
 ];
