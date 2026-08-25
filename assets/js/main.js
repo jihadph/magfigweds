@@ -59,6 +59,11 @@ const guestList = [
         guest: 'hamzaalonto',
         name: "Hamza Lomondot Alonto and Family",
     },
+    {
+        id: 'M12',
+        guest: 'anjelikaakiko',
+        name: "Anjelika & Akiko Orui and Family",
+    },
 
     /* FIGUERAS FAMILY */
 
