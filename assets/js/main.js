@@ -174,6 +174,11 @@ const guestList = [
         guest: 'rvgharon',
         name: "RVG Haron Al Rashid Lucman Jr.",
     },
+    {
+        id: 'M35',
+        guest: 'babydoll',
+        name: "Atty. Sahwia Sohria Unte Alonto - Arobinto",
+    },
 
     /* FIGUERAS FAMILY */
 
