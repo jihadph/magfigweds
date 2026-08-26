@@ -199,6 +199,16 @@ const guestList = [
         guest: 'drramer',
         name: "Dr. R. Amer",
     },
+    {
+        id: 'M40',
+        guest: 'yujuico',
+        name: "Mr. JR Yujuico",
+    },
+    {
+        id: 'M41',
+        guest: 'zia',
+        name: "Cong. Zia Alonto Adiong",
+    },
 
     /* FIGUERAS FAMILY */
 
