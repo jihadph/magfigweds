@@ -209,6 +209,11 @@ const guestList = [
         guest: 'zia',
         name: "Cong. Zia Alonto Adiong",
     },
+    {
+        id: 'M42',
+        guest: 'beth',
+        name: "Mr. Nash and Mrs. Beth Buisan",
+    },
 
     /* FIGUERAS FAMILY */
 
