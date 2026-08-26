@@ -3,22 +3,22 @@ const guestList = [
 
     {
         id: 'M01',
-        guest: '',
+        guest: 'danielmostrales',
         name: "Prof. Daniel Mostrales & Family"
     },
     {
         id: 'M02',
-        guest: '',
+        guest: 'faizan',
         name: "Faizan Khan & Family",
     },
     {
         id: 'M03',
-        guest: '',
+        guest: 'hassan',
         name: "Hassan Al-amin Bas & Family",
     },
     {
         id: 'M04',
-        guest: '',
+        guest: 'johnrey',
         name: "John Rey & Jiza",
     },
 
@@ -26,27 +26,27 @@ const guestList = [
 
     {
         id: 'M05',
-        guest: '',
+        guest: 'johaira',
         name: "H Johaira Guro & Family",
     },
     {
         id: 'M06',
-        guest: '',
+        guest: 'serad',
         name: "Serad Magalin & Family",
     },
     {
         id: 'M07',
-        guest: '',
+        guest: 'oliling',
         name: "Oliling Magalin & Family",
     },
     {
         id: 'M08',
-        guest: '',
+        guest: 'mangondaya',
         name: "Mangondaya Magalin & Family",
     },
     {
         id: 'M09',
-        guest: '',
+        guest: 'sahara',
         name: "H Sahara Magalin & Family",
     },
     {
