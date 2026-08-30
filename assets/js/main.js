@@ -266,6 +266,11 @@ const guestList = [
         id: 'F09',
         guest: 'ramonleotero',
         name: "Ramon & Rowena Leotero and Family",
+    },
+    {
+        id: 'F10',
+        guest: 'jigjig',
+        name: "Seigred Shane G. Caudor",
     }
 ];
 // Get URL parameters
